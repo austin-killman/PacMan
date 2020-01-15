@@ -66,8 +66,8 @@ public class Matrix
                 
                 
             }
-           
             Debug.Log(temp.ToString());
+     
         }
         
     }
